@@ -26,7 +26,7 @@ As part of your GitHub repository’s `README.md` file, you will also create a r
 
 Download the following files to help you get started:
 
-* [`machine_learning_trading_bot` Jupyter Notebook](machine_learning_trading_bot.ipynb)
+* [machine_learning_trading_bot Notebook](machine_learning_trading_bot.ipynb)
 * [`emerging_markets_ohlcv` CSV File](Resources/emerging_markets_ohlcv.csv)
 
 > **Note:** The provided CSV file contains OHLCV data for an MSCI&ndash;based emerging markets ETF that [iShares](https://www.ishares.com/us/products/268704/ishares-currency-hedged-msci-emerging-markets) issued. Investments in emerging markets make up an important aspect of a well-diversified investment portfolio. This is because the included equities have potentially higher long-term returns, even though they carry more risk.
